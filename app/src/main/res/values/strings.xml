@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">News Feeder</string>
+    <string name="all_feeds">All feeds</string>
+    <string name="all_groups">All groups</string>
+    <string name="saved">Saved</string>
+    <string name="by_aimee_green_the_oregonian_live">By Aimee Green / The oregonian/Live</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="dummy_text">Механізми аутентифікації в інтерфейсах користувачів</string>
+    <string name="contrary_to_popular_belief_lorem_ipsum_is_not_simply_random_text_it_has_roots_in_a_piece_of_classical_latin_literature_from_45_bc_making_it_over_2000_years_old">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+
+Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+
+Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC.
+
+This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+
+Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC.
+
+This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32
+    </string>
+    <string name="image">Image</string>
+    <string name="internet_is_off">Internet is OFF</string>
+    <string name="title">title</string>
+    <string name="news_feed">News Feed</string>
+    <string name="source_icon">Source icon</string>
+    <string name="saved_icon">Saved icon</string>
+    <string name="refresh">Refresh</string>
+    <string name="internet_is_on">Internet is on!</string>
+    <string name="snackbar_internet_is_on">Internet is On</string>
+    <string name="snackbar_internet_is_off">Internet is off</string>
+    <string name="snackbar_refresh">Refresh</string>
+    <string name="snackbar_dismiss">Dismiss</string>
+    <string name="source_icon_content">Source icon</string>
+    <string name="bookmark_icon_content">Bookmark icon</string>
+    <string name="eye_icon_content">Eye icon</string>
+
+</resources>
